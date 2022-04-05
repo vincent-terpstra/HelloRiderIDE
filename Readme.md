@@ -1,0 +1,1 @@
+﻿Hello World from Rider IDE
